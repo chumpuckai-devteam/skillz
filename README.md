@@ -28,3 +28,4 @@ hermes skills install chumpuckai-devteam/skillz/hermes-agent/skills/hermes-layer
 ## Skills
 
 - `hermes-layered-setup` - rebuild or audit a Hermes setup in layers, instead of installing everything on day one. Source: https://x.com/hermeswatcher/status/2101884812189684015
+- `explain-simpler` - explain a confusing or dense output by climbing from plain writing to a diagram, a page, or a video, and stop early. Strict STE only when asked. Sources: https://x.com/karpathy/status/2105819303471976479 , https://github.com/AminBlg/SimpleEnglish , https://github.com/danyuchn/asd-ste100-skill
